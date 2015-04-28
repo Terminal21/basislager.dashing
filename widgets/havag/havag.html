@@ -1,0 +1,17 @@
+<h1 class="train title" data-bind="station"></h1>
+<table class="trains">
+<tr>
+ <th>Line</th>
+ <th>Destination</th>
+ <th>Departure</th>
+ <th>Delay</th>
+</tr>
+ <tr data-id="next_trains" data-foreach-item="next_trains" class="next_trains">
+  <td class="line" data-bind="item.line"></td>
+  <td class="destination" data-bind="item.destination"></td>
+  <td class="departure_scheduled" data-bind="item.departure_scheduled"></td>
+  <td class="delay" data-bind="item.delay"></td>
+ </tr>
+</table>
+<p class="updated-at" data-bind="updatedAtMessage"></p>
+

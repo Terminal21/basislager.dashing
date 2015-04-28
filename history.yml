@@ -1,0 +1,66 @@
+---
+valuation: ! 'data: {"current":10,"last":28,"id":"valuation","updatedAt":1429107800}
+
+
+'
+karma: ! 'data: {"current":49556,"last":88356,"id":"karma","updatedAt":1429107800}
+
+
+'
+synergy: ! 'data: {"value":94,"id":"synergy","updatedAt":1429107800}
+
+
+'
+buzzwords: ! 'data: {"items":[{"label":"Web 2.0","value":3},{"label":"Exit strategy","value":10},{"label":"Paradigm
+  shift","value":26},{"label":"Streamlininess","value":11},{"label":"Enterprise","value":25},{"label":"Synergy","value":10},{"label":"Pivoting","value":13},{"label":"Leverage","value":21},{"label":"Turn-key","value":20}],"id":"buzzwords","updatedAt":1429107800}
+
+
+'
+convergence: ! 'data: {"points":[{"x":340130,"y":35},{"x":340131,"y":26},{"x":340132,"y":13},{"x":340133,"y":21},{"x":340134,"y":27},{"x":340135,"y":33},{"x":340136,"y":19},{"x":340137,"y":22},{"x":340138,"y":48},{"x":340139,"y":16}],"id":"convergence","updatedAt":1429107800}
+
+
+'
+fusion_days_left: ! 'data: {"value":340,"id":"fusion_days_left","updatedAt":1373206757}
+
+
+'
+fusion-days_left: ! 'data: {"value":71,"id":"fusion-days_left","updatedAt":1429104342}
+
+
+'
+havag: ! 'data: {"station":"Lutherstraße","next_trains":[{"line":"2","destination":"Beesen","departure_real":"2015-04-15T16:23:38+00:00","departure_scheduled":"16:23","low_floor":"true","cab_id":"696","station":"Lutherstraße","delay":"00:38
+  min"},{"line":"2","destination":"Soltauer Straße","departure_real":"2015-04-15T16:26:00+00:00","departure_scheduled":"16:26","low_floor":"true","cab_id":"664","station":"Lutherstraße","delay":"in
+  time"},{"line":"16","destination":"Göttinger Bogen","departure_real":"2015-04-15T16:31:00+00:00","departure_scheduled":"16:31","low_floor":"true","cab_id":"617","station":"Lutherstraße","delay":"in
+  time"},{"line":"5","destination":"Bad Dürrenberg","departure_real":"2015-04-15T16:31:37+00:00","departure_scheduled":"16:31","low_floor":"true","cab_id":"702","station":"Lutherstraße","delay":"00:37
+  min"},{"line":"16","destination":"Südstadt","departure_real":"2015-04-15T16:33:00+00:00","departure_scheduled":"16:33","low_floor":"true","cab_id":"619","station":"Lutherstraße","delay":"in
+  time"},{"line":"5","destination":"Kröllwitz","departure_real":"2015-04-15T16:33:18+00:00","departure_scheduled":"16:33","low_floor":"true","cab_id":"621","station":"Lutherstraße","delay":"in
+  time"},{"line":"2","destination":"Beesen","departure_real":"2015-04-15T16:38:00+00:00","departure_scheduled":"16:38","low_floor":"false","cab_id":"1160","station":"Lutherstraße","delay":"in
+  time"},{"line":"2","destination":"Soltauer Straße","departure_real":"2015-04-15T16:41:25+00:00","departure_scheduled":"16:41","low_floor":"true","cab_id":"685","station":"Lutherstraße","delay":"in
+  time"},{"line":"16","destination":"Soltauer Straße","departure_real":"2015-04-15T16:46:00+00:00","departure_scheduled":"16:46","low_floor":"true","cab_id":"631","station":"Lutherstraße","delay":"in
+  time"},{"line":"5","destination":"Ammendorf","departure_real":"2015-04-15T16:46:00+00:00","departure_scheduled":"16:46","low_floor":"true","cab_id":"609","station":"Lutherstraße","delay":"in
+  time"}],"id":"havag","updatedAt":1429107783}
+
+
+'
+weather: ! 'data: {"temp":"23&deg;C","condition":"Fair","title":"Halle Weather","climacon":"sun","id":"weather","updatedAt":1429107703}
+
+
+'
+twitter_mentions: ! 'data: {"comments":[{"name":"Laysa Diniz","body":"Bom dia #CCCAMP
+  https://t.co/mEHihgAdN8","avatar":"https://pbs.twimg.com/profile_images/584601210856087552/2g_-dQrL_normal.jpg"},{"name":"Laysa
+  Diniz","body":"Bom dia #CCCAMP #frio https://t.co/SMg1taj8L8","avatar":"https://pbs.twimg.com/profile_images/584601210856087552/2g_-dQrL_normal.jpg"},{"name":"Emmanuelle","body":"RT
+  @JustElex: Call for Applications!! Hackerspaces mich gerne bei ihrem village haben
+  wollen: Bewerbt euch. P.s. Ich hab nen Cocktailrobote…","avatar":"https://pbs.twimg.com/profile_images/548494519810129920/xsk65wHA_normal.jpeg"},{"name":"JustElex","body":"Call
+  for Applications!! Hackerspaces mich gerne bei ihrem village haben wollen: Bewerbt
+  euch. P.s. Ich hab nen Cocktailroboter ;-) #cccamp","avatar":"https://pbs.twimg.com/profile_images/1652037920/elex_normal.png"}],"id":"twitter_mentions","updatedAt":1429107342}
+
+
+'
+cccamp-days_left: ! 'data: {"value":120,"id":"cccamp-days_left","updatedAt":1429104343}
+
+
+'
+welcome: ! 'data: {"text":"Hey, Look at me","id":"welcome","updatedAt":1424855809}
+
+
+'
