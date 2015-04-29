@@ -16,4 +16,3 @@ SCHEDULER.every '20s', :first_in => 0 do |job|
     end
     send_event('havag', {station: station, next_trains: next_trains[0..9]})
 end
-
